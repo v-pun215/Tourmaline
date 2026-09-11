@@ -1,5 +1,5 @@
 # Tourmaline
-I recently stumbled upon a piece of cleverly designed malware which calls itself "Torumaline".
+I recently stumbled upon a piece of cleverly designed malware that calls itself "Torumaline".
 
 This README is very kindly written by Claude as I was super busy with exams at the time of this repository's inception. 
 
