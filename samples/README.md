@@ -6,7 +6,7 @@
 
 ### Archive Details
 * **File:** `Tourmaline_sample.zip`
-* **Archive Password:** `infected` (Industry standard security research password)
+* **Archive Password:** `infected` 
 * **Contained File:** `Tourmaline.exe`
 * **File Size:** 11,341,339 bytes (~10.8 MB)
 * **MD5:** `b74ac808dea2de31caf024310694ef0c`
