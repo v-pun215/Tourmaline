@@ -5,6 +5,8 @@ This README is very kindly written by Claude as I was super busy with exams at t
 
 Exploiting and decrypting this malware took a huge chunk of my time from math prep!
 
+Read the [blogpost!](https://vihaan.dev/inside-tourmaline)
+
 > **FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY**  
 > All samples are provided for malware analysis and defensive research. Do not execute outside a sandboxed, air-gapped environment.
 
