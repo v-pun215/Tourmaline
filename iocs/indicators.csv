@@ -1,0 +1,9 @@
+indicator_type,indicator_value,description
+sha256,c9b390b3b7148f549df86503858d52e030b2b5e78fed0bc525ded5927f9265d6,Tourmaline.exe (Inno Setup 6.7.0 Dropper)
+md5,b74ac808dea2de31caf024310694ef0c,Tourmaline.exe (Inno Setup 6.7.0 Dropper)
+sha256,4de455cfa10e9042ad68bf7a53c30ea517409240409c3167b0766624a0d92e59,main.py (Stage 1 Python Loader)
+sha256,f437d6ec6a14c2b18aa2fc40e8b15fa276e0e02c676c7c001cfad2d59cf00e12,QGBdu.dxf (Encrypted Payload)
+sha256,76f4142f360934cebe702c2e55aafe361a4ad6f6952fc8797f74bcf65651c500,decrypted_payload.py (Core DNS RAT)
+ipv4,158.94.211.185:53,Active Covert DNS C2 Nameserver
+eth_contract,0x2d7a04cca0c34005f58393f30ac725e25f19e5f5,Ethereum Sepolia Smart Contract Dead-Drop Resolver
+mutex,Global\Tourmaline_*,Host Execution Mutex

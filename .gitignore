@@ -1,0 +1,17 @@
+*.pyc
+__pycache__/
+decrypted_payload.py
+decrypted_stage2.py
+*.log
+
+Tourmaline.exe
+*.exe
+
+*.dll
+*.pyd
+*.zip.extracted/
+
+
+.DS_Store
+.vscode/
+*.swp
